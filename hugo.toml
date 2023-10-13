@@ -1,7 +1,6 @@
 baseURL = "https://cullanhowlett.github.io"
 languageCode = "en-au"
 title = "Cullan Howlett's Personal Website"
-theme = ""
 
 [params]
     name = "Cullan Howlett"
