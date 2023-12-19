@@ -4,21 +4,21 @@ title = "Cullan Howlett's Personal Website"
 
 [params]
     name = "Cullan Howlett"
-    description = "Cosmologist, Astrophysicist, Data Analyst"
+    description = "Cosmologist. Astrophysicist. Data Analyst"
     email = "c.howlett@uq.edu.au"
     address = "School of Mathematics and Physics, University of Queensland, St. Lucia, QLD 4067."
     year = 2023
     avatar = "images/ProfilePic.jpg"
     avatarclass = "circle"
     background = ""
-    banner = "images/.jpg"
+    banner = "images/BAO.jpg"
     favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
+    DateForm = "October 14, 2023"
     author = "Sergey Pozhilov (GetTemplate.com)"
 
     showSubheader = true
-    showResearch = true
-    showProjects = true
+    showRecentWorks= true
+    showServices = true
 
     showFooterContact = true
     showFooterFollowMe = true
